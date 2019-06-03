@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Cool" />
+    <version value="1" />
+    <list>
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.ProvinceDB" />
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.CityDB" />
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.CountryDB" />
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.WeatherDB" />
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.AirDB" />
+        <mapping class="com.shenkangyun.asthmaproject.DBFolder.AlarmDB" />
+    </list>
+</litepal>
